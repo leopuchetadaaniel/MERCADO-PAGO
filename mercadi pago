@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>boton link</title>
+</head>
+<body>
+<h1>llamar por telefono
+    <a href="tel:+5493516377834">mercado pago</a>
+</h1>
+</body>
+</html>
